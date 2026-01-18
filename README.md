@@ -12,23 +12,19 @@ This repository contains laboratory experiments and simulations for the **Data C
 
 ## 📂 Lab Experiments
 
-### Part A: Network Simulations (Packet Tracer)
+### Network Simulations (Packet Tracer)
 | Exp No. | Experiment Name | Description |
 | :--- | :--- | :--- |
-| **01** | **Basic Topologies** | Implementation of Basic Topology|
-| **02** | **Hybrid Topology** | Implementation of Hybrid Topology|
-| **03** | **Router Config** | Router Config with two Different Network|
+| **01** | **Basic Topologies** | Implementation of Basic Topology. |
+| **02** | **Hybrid Topology** | Implementation of Hybrid Topology. |
+| **03** | **Router Config** | Router Config with two Different Network. |
 | **04** | **DHCP Server Config** | Automating IP allocation using a DHCP server. |
 | **05** | **DHCP Server With DNS** | Automating IP allocation using a DHCP server and Domain Name Server. |
-| **06** | **DHCP Server With DNS and Web Browser Access** | Automating IP allocation using a DHCP server and Domain Name Server with web Browser |
-| **07** | **IOT Devices Connections and Home Automation** | Working on it |
+| **06** | **DHCP Server With DNS and Web Browser Access** | Automating IP allocation using a DHCP server and Domain Name Server with web Browser. |
+| **07** | **IOT Devices Connections and Home Automation** | Smart Water Tank Level Monitoring & Auto Control System. |
 
 
 
-### Part B: Packet Analysis (Wireshark)
-| Task | Analysis Description |
-| :--- | :--- |
-Working on it........
 
 ## 🚀 How to Run
 1.  **Packet Tracer:** * Open the `.pkt` files using **Cisco Packet Tracer (v8.0+)**.
