@@ -27,11 +27,9 @@ This repository contains laboratory experiments and simulations for the **Data C
 
 
 ## 🚀 How to Run
-1.  **Packet Tracer:** * Open the `.pkt` files using **Cisco Packet Tracer (v8.0+)**.
+  **Packet Tracer:** * Open the `.pkt` files using **Cisco Packet Tracer (v8.0+)**.
     * Use the "Simulation" tab to visualize packet flow.
-2.  **Wireshark:**
-    * Open the `.pcap` files in **Wireshark**.
-    * Apply filters (e.g., `tcp`, `http`, `icmp`) to view specific traffic.
+
 
 
 ## 👤 Author
