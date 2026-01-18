@@ -1,14 +1,13 @@
 # Data Communication and Networking Lab
 
 ![Course](https://img.shields.io/badge/Course-Data%20Communication%20%26%20Networking-blue)
-![Tools](https://img.shields.io/badge/Tools-Cisco%20Packet%20Tracer%20%7C%20Wireshark-orange)
+
 
 ## 📌 Introduction
-This repository contains laboratory experiments and simulations for the **Data Communication and Networking** course. The projects demonstrate the practical implementation of network topologies, routing protocols, and traffic analysis.
+This repository contains laboratory experiments and simulations for the **Data Communication and Networking** course. The projects demonstrate the practical implementation of network topologies, routing protocols.
 
 ## 🛠️ Tools Used
 1.  **Cisco Packet Tracer:** Used for designing network topologies and configuring Routers, Switches, and End Devices.
-2.  **Wireshark:** Used for capturing and analyzing network packets (TCP/IP, HTTP, ARP).
 
 ## 📂 Lab Experiments
 
@@ -37,3 +36,10 @@ This repository contains laboratory experiments and simulations for the **Data C
 * **Student ID:** 23701002
 * **Department:** Computer Science & Engineering
 * **University:** University of Chittagong.
+  
+## 👤 Instructor
+**Dr. Iqbal Ahmed**  
+Professor,  
+Computer Science & Engineering,  
+University of Chittagong, Chittagong-4331
+
